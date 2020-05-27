@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/grab-openid/static/css/main.5f361e03.chunk.css",
+    "main.js": "/grab-openid/static/js/main.64e873d0.chunk.js",
+    "main.js.map": "/grab-openid/static/js/main.64e873d0.chunk.js.map",
+    "runtime-main.js": "/grab-openid/static/js/runtime-main.d80ff8e0.js",
+    "runtime-main.js.map": "/grab-openid/static/js/runtime-main.d80ff8e0.js.map",
+    "static/js/2.301f9d08.chunk.js": "/grab-openid/static/js/2.301f9d08.chunk.js",
+    "static/js/2.301f9d08.chunk.js.map": "/grab-openid/static/js/2.301f9d08.chunk.js.map",
+    "index.html": "/grab-openid/index.html",
+    "precache-manifest.e66e7c8da9e33af4e7256cb1f836b31e.js": "/grab-openid/precache-manifest.e66e7c8da9e33af4e7256cb1f836b31e.js",
+    "service-worker.js": "/grab-openid/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/grab-openid/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.301f9d08.chunk.js.LICENSE.txt": "/grab-openid/static/js/2.301f9d08.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/grab-openid/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d80ff8e0.js",
+    "static/js/2.301f9d08.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.64e873d0.chunk.js"
+  ]
+}
