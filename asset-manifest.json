@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/grab-openid/static/css/main.15bae351.chunk.css",
-    "main.js": "/grab-openid/static/js/main.a7cf70ba.chunk.js",
-    "main.js.map": "/grab-openid/static/js/main.a7cf70ba.chunk.js.map",
+    "main.css": "/grab-openid/static/css/main.fbad31f6.chunk.css",
+    "main.js": "/grab-openid/static/js/main.e200f857.chunk.js",
+    "main.js.map": "/grab-openid/static/js/main.e200f857.chunk.js.map",
     "runtime-main.js": "/grab-openid/static/js/runtime-main.20d2aac6.js",
     "runtime-main.js.map": "/grab-openid/static/js/runtime-main.20d2aac6.js.map",
     "static/js/2.d8759506.chunk.js": "/grab-openid/static/js/2.d8759506.chunk.js",
     "static/js/2.d8759506.chunk.js.map": "/grab-openid/static/js/2.d8759506.chunk.js.map",
     "index.html": "/grab-openid/index.html",
-    "precache-manifest.ecb585a32be7486c304431ebfd2460bf.js": "/grab-openid/precache-manifest.ecb585a32be7486c304431ebfd2460bf.js",
+    "precache-manifest.8979fd78c937fbfdb7f0396f127d6b69.js": "/grab-openid/precache-manifest.8979fd78c937fbfdb7f0396f127d6b69.js",
     "service-worker.js": "/grab-openid/service-worker.js",
-    "static/css/main.15bae351.chunk.css.map": "/grab-openid/static/css/main.15bae351.chunk.css.map",
+    "static/css/main.fbad31f6.chunk.css.map": "/grab-openid/static/css/main.fbad31f6.chunk.css.map",
     "static/js/2.d8759506.chunk.js.LICENSE.txt": "/grab-openid/static/js/2.d8759506.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.20d2aac6.js",
     "static/js/2.d8759506.chunk.js",
-    "static/css/main.15bae351.chunk.css",
-    "static/js/main.a7cf70ba.chunk.js"
+    "static/css/main.fbad31f6.chunk.css",
+    "static/js/main.e200f857.chunk.js"
   ]
 }
