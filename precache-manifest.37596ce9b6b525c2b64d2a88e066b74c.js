@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3769be5a424f70be45555088b2b2cfc4",
+    "revision": "89e661add707cc86482b5307c26e2ccc",
     "url": "/grab-openid/index.html"
   },
   {
