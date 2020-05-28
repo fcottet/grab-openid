@@ -23,12 +23,12 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p>
-          This is the fragment:<br/>
-          <pre>{hash}</pre>
+        <p className="long">
+          This is the fragment:<br/><br/>
+          {hash}
         </p>
         <p>
-          This is the token:<br/>
+          This is the decoded token:<br/><br/>
           <pre>{JSON.stringify(decryptedToken, null, 2) }</pre>
         </p>
       </header>
