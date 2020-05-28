@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "38faf3e1cabb4d8729d4045ba4c4688b",
+    "revision": "3769be5a424f70be45555088b2b2cfc4",
     "url": "/grab-openid/index.html"
   },
   {
-    "revision": "32b737bc8771252f21a6",
+    "revision": "3f64ec3a55637fe443dd",
     "url": "/grab-openid/static/css/main.fbad31f6.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/grab-openid/static/js/2.f04ed952.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "32b737bc8771252f21a6",
-    "url": "/grab-openid/static/js/main.feca2b0e.chunk.js"
+    "revision": "3f64ec3a55637fe443dd",
+    "url": "/grab-openid/static/js/main.988f3ce9.chunk.js"
   },
   {
     "revision": "ff74ce15e63e2462d497",
